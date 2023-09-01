@@ -17,12 +17,12 @@ To run this Flask application, you need:
    git clone https://github.com/your-username/your-repo.git
 Navigate to the project directory:
 
-bash
+```bash
 Copy code
 cd your-repo
 Run the Flask application:
 
-bash
+```bash
 Copy code
 python app.py
 
