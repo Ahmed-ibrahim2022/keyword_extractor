@@ -18,13 +18,13 @@ To run this Flask application, you need:
 Navigate to the project directory:
 
    ```bash
-Copy code
-cd your-repo
+   Copy code
+   cd your-repo
 Run the Flask application:
 
    ```bash
-Copy code
-python app.py
+   Copy code
+  python app.py
 
 
 Open a web browser and go to http://localhost:5000.
