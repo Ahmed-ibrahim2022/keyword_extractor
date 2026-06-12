@@ -1,33 +1,26 @@
-# Keyword Extractor Web Application
+# Keyword Extractor
 
-A simple Flask web application that extracts keywords from text input.
+A Python-based tool for extracting relevant keywords from text.
 
-## How to Use
+## Purpose
 
-1. Clone the repository:
+This project explores basic natural language processing and text analysis techniques. It can be used to process written content, identify important terms, and support simple content analysis workflows.
 
-git clone https://github.com/your-username/your-repo.git
+## Features
 
-2. Navigate to the project directory:
+- Text input processing
+- Keyword extraction logic
+- Basic text cleaning
+- Simple Python implementation
 
-cd your-repo
+## Tech Stack
 
-3. Run the Flask application:
+- Python
+- Text processing
+- Basic NLP concepts
 
-python app.py
+## Why this project matters
 
-4. Open a web browser and go to http://localhost:5000.
+Keyword extraction is useful in content analysis, search optimization, document review, and AI-assisted evaluation workflows.
 
-5. Enter the text you want to process in the **text** parameter and click the **Submit** button.
-
-6. The application will return a JSON response with the extracted keywords.
-
-## Author
-
-Ahmed Ibrahim
-
-## GitHub
-
-https://github.com/Ahmed-ibrahim2022/
-
-Feel free to reach out if you have any questions or suggestions!
+This project is part of my broader interest in practical AI-assisted tools, automation, and systems that help analyze information more effectively.
